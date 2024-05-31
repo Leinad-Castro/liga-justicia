@@ -7,3 +7,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 Estos son cambios nuevos desde git hub
+<<<<<<< HEAD
+=======
+
+>>>>>>> 15fed25 (Readme.md local actualizado)
