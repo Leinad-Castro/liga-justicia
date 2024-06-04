@@ -7,8 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Verde!
-<<<<<<< HEAD
 * Goku
-=======
 * Vegeta
->>>>>>> refs/remotes/origin/main
+
